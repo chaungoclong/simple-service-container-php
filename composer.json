@@ -1,0 +1,20 @@
+{
+    "name": "chaungoclong/container",
+    "description": "simple container for php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chaungoclong\\Container\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Châu Ngọc Long",
+            "email": "longcn@beetsoft.com.vn"
+        }
+    ],
+    "require": {
+        "psr/container": "^2.0"
+    }
+}
